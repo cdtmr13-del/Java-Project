@@ -1,2 +1,3 @@
 # Java-Project
-Code 
+This was a code HS project 
+Java simulation
